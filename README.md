@@ -6,7 +6,7 @@ We are looking at data from a pharmaceutical company that works with anti-cancer
 In this study, 249 mice with squamous cell carcinoma (SCC) tumors were subjected to various drug regimens. Over 45 days, the development of tumors was observed and measured. The primary objective of this study was to evaluate the performance of Pymaceuticals' drug of interest, Capomulin, in comparison to other treatment regimens.
 
 # Instructions
-Please open the file called: (`main.ipynb`) in the (`matplotlib-challenge/Pymaceuticals`) and run the code.
+Please open the file called: `main.ipynb` in the `matplotlib-challenge/Pymaceuticals` and run the code.
 
 ## Project Tasks
 
